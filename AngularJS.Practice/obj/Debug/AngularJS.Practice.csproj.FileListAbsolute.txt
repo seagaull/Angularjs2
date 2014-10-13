@@ -3,8 +3,6 @@ c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\Angula
 c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\AngularJS.Practice.pdb
 c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\Antlr3.Runtime.dll
 c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\EntityFramework.dll
-c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\Microsoft.Web.Infrastructure.dll
-c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
 c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\Newtonsoft.Json.dll
 c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\System.Net.Http.Formatting.dll
 c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\System.Web.Http.dll
@@ -13,7 +11,6 @@ c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\Angula
 c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\System.Web.Optimization.dll
 c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\System.Web.Providers.dll
 c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\System.Web.Razor.dll
-c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\System.Web.WebPages.Deployment.dll
 c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\System.Web.WebPages.dll
 c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\System.Web.WebPages.Razor.dll
 c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\WebGrease.dll
@@ -25,7 +22,6 @@ c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\Angula
 c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\System.Web.Mvc.xml
 c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\System.Web.Razor.xml
 c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\System.Web.WebPages.xml
-c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\System.Web.WebPages.Deployment.xml
 c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\bin\System.Web.WebPages.Razor.xml
 c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\obj\Debug\AngularJS.Practice.csprojResolveAssemblyReference.cache
 c:\users\mohamed\documents\visual studio 2013\Projects\AngularJS.Practice\AngularJS.Practice\obj\Debug\AngularJS.Practice.dll

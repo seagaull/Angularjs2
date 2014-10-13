@@ -1,17 +1,12 @@
 ﻿<!DOCTYPE html>
-<html>
+<html ng-app="mainModule">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>@ViewBag.Title</title>
+    <title>{{1+1}}</title>
     <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
     <link href="~/Content/bootstrap.slate.min.css" rel="stylesheet" />
     <link href="~/Content/Site.css" rel="stylesheet" />
-    @RenderSection("Javascript",required:false)
-    @Scripts.Render("~/bundles/modernizr")
-</head>
-<body>
-    @RenderBody()
 
 
     <script src="~/Scripts/jquery-2.1.1.min.js"></script>
@@ -21,5 +16,13 @@
     <script src="~/Scripts/angular.min.js"></script>
 
     <script src="~/Scripts/angular-route.min.js"></script>
+
+    <script src="~/Scripts/AngularModule/MainModule.js"></script>
+    @RenderSection("Javascript", required: false)
+ 
+</head>
+<body>
+    @RenderBody()
+
 </body>
 </html>
